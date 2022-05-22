@@ -1,0 +1,5 @@
+ahmed@gmail.com,123456789,0,202017007,015236587259,21,M,ahmed,O+, blood pressure: 0, thyroid disease: 0, diabetes: 0, cancer: 0, heart disorders: 0, hepatitis: 0,15,4,2022,
+mahmoud@gmail.com,123456123,1,202017009,0104087549,17,M,mahmoud,O+, blood pressure: 0, thyroid disease: 0, diabetes: 0, cancer: 0, heart disorders: 0, hepatitis: 0,2,3,2005,
+mohamed@gmail.com,1,1,2020170078,987654,666,M,mohamed,A+, blood pressure: 1, thyroid disease: 0, diabetes: 1, cancer: 0, heart disorders: 0, hepatitis: 0,22,5,2022,
+deyaa@gmail.com,123456789,1,2020170010,01117678910,21,M,ahmed deyaa,O+, blood pressure: 0, thyroid disease: 0, diabetes: 0, cancer: 0, heart disorders: 0, hepatitis: 0,22,5,2022,
+samy@gmail.com,123456789,0,2020170013,9987456,26,M,samy,O+, blood pressure: 0, thyroid disease: 0, diabetes: 0, cancer: 0, heart disorders: 0, hepatitis: 0,25,8,2006,
